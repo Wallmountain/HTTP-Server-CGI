@@ -1,0 +1,7 @@
+ls -al bin . |2
+removetag test.html |1
+number > temp.html
+number temp.html | number | number
+cat <1
+yell /':;[{`~%^*$''#@!?><><:'"\"|"-"','''.1(())(()()()(@''#*&'^%$#@!''~~~```+=+-_=^&6<,.}]
+exit

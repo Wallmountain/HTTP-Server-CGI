@@ -1,0 +1,10 @@
+printenv PATH
+ls >2
+removetag test.html | cat
+removetag test.html
+ls | number
+removetag test.html |2
+number test.html |1
+cat test.html | number
+exit
+removetag test.html
